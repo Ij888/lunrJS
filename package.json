@@ -1,0 +1,19 @@
+{
+  "name": "lunrjs",
+  "version": "1.0.0",
+  "description": "a text search proof of concept app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ij888/lunrJS.git"
+  },
+  "author": "ij888",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ij888/lunrJS/issues"
+  },
+  "homepage": "https://github.com/Ij888/lunrJS#readme"
+}
